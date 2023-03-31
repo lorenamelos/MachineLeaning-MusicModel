@@ -1,11 +1,10 @@
-# MachineLeaning-MusicModel
-
+# MachineLeaning Music Model
 
 <strong> Music Model </strong>
 
 Predicting the kind of music people like.
 
-This notebook was created while I was taking an tutorial from Youtube:
+This notebook was created while I was taking my first ML tutorial from Youtube:
 
 -- Python Machine Learning Tutorial (Data Science) -- https://www.youtube.com/watch?v=7eh4d6sabA0
 
