@@ -1,4 +1,4 @@
-# MachineLeaning Music Model
+# Machine Learning Music Model
 
 <strong> Music Model </strong>
 
